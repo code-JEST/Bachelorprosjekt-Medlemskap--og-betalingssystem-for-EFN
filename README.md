@@ -1,7 +1,8 @@
 # Bachelorprosjekt: Medlemskap- og betalingssystem (EFN)
 
 Dette repositoriet viser en anonymisert oversikt over bachelorprosjektet utviklet for organisasjonen EFN våren 2025. Systemet er utviklet for å forenkle håndtering av medlemskap, betaling og administrasjon.
-
+> 📌 Prosjektet ble vurdert til karakter **A**.
+> 
 > 🛑 Merk: Kildekoden er konfidensiell og derfor ikke publisert.
 
 ## 📌 Oversikt over systemet
@@ -19,6 +20,7 @@ Under vises noen eksempler fra systemet:
 | ![Medlemskort](bilder/Medlemside.png) | ![Keycloak](bilder/Keycloak.png) | ![Betalingsoversikt](bilder/Betalingoversikt.png)
 
 ### 📄 Bachelorrapport
+Dette prosjektet ble vurdert til karakter **A**.  
 PDF-versjon av bachelorrapporten kan lastes ned her:  
 📄 [Last ned rapporten](rapport/EFN-Bachelorrapport.pdf)
 
