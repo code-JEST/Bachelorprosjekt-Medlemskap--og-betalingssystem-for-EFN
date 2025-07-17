@@ -30,4 +30,4 @@ PDF-versjon av bachelorrapporten kan lastes ned her:
 - PostgreSQL
 
 ## 👥 Gruppe
-Prosjektet ble gjennomført som en del av bachelor i informasjonsteknologi ved OsloMet.
+Prosjektet ble gjennomført som en gruppe bachelor i informasjonsteknologi ved OsloMet.
