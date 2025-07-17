@@ -14,13 +14,13 @@ Systemet består av tre hoveddeler:
 ### 📸 Skjermbilder
 Under vises noen eksempler fra systemet:
 
-| Innlogging | Medlemsoversikt | Betalingsstatus |
+| Medlemskort | Keyclaok | Betalingsoversikt|
 |------------|------------------|------------------|
-| ![Innlogging](bilder/innlogging.png) | ![Medlemsoversikt](bilder/medlemsoversikt.png)
+| ![Medlemskort](bilder/Medlemside.png) | ![Keyclaok](bilder/Keycloak.png) | ![Betalingsoversikt](bilder/Betalingoversikt.png)
 
 ### 📄 Bachelorrapport
-En anonymisert PDF-versjon av bachelorrapporten kan lastes ned her:  
-📄 [`rapport/EFN-Bachelorrapport-Anonymisert.pdf`](rapport/EFN-Bachelorrapport-Anonymisert.pdf)
+PDF-versjon av bachelorrapporten kan lastes ned her:  
+📄 [`rapport/EFN-Bachelorrapport.pdf`](rapport/EFN-Bachelorrapport.pdf)
 
 ## 🛠️ Teknologier brukt
 - .NET 8 / C#
