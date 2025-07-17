@@ -16,7 +16,7 @@ Under vises noen eksempler fra systemet:
 
 | Medlemskort | Keyclaok | Betalingsoversikt|
 |------------|------------------|------------------|
-| ![Medlemskort](bilder/Medlemside.png) | ![Keyclaok](bilder/Keycloak.png) | ![Betalingsoversikt](bilder/Betalingoversikt.png)
+| ![Medlemskort](bilder/Medlemside.png) | ![Keycloak](bilder/Keycloak.png) | ![Betalingsoversikt](bilder/Betalingoversikt.png)
 
 ### 📄 Bachelorrapport
 PDF-versjon av bachelorrapporten kan lastes ned her:  
