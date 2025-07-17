@@ -20,7 +20,7 @@ Under vises noen eksempler fra systemet:
 
 ### 📄 Bachelorrapport
 PDF-versjon av bachelorrapporten kan lastes ned her:  
-📄 [`rapport/EFN-Bachelorrapport.pdf`](rapport/EFN-Bachelorrapport.pdf)
+📄 [Last ned rapporten](rapport/EFN-Bachelorrapport.pdf)
 
 ## 🛠️ Teknologier brukt
 - .NET 8 / C#
